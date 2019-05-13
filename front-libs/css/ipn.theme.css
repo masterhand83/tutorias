@@ -1,0 +1,6 @@
+.btn-group.btn-group-block{
+    display: flex;
+}
+.btn-group-block .btn {
+    flex: 1;
+}
