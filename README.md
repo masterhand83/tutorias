@@ -1,5 +1,5 @@
-#Instructivo de modificación e instalación.
-###Sobre la Base de datos
+# Instructivo de modificación e instalación.
+### Sobre la Base de datos
 La base de datos esta hecha en MySQL pero el profesor requiere que dicha 
 base sea migrada a SQLServer.
 
@@ -59,7 +59,7 @@ se sienten en la necesidad de modificar las sentencias que utilize, pueden hacer
 8. todo el codigo y los estilos del *Front-End* se encuentran en la libreria de
 front-libs.
 
-###¿Que se utilizo para crear la pagina?
+### ¿Que se utilizo para crear la pagina?
 * Utilize como lenguaje de programacion **PHP 7**.
 * Para el servidor utilize **XAMPP 7.2.14** con la configuracion.
 especial "**short_open_tag = on**" (que se encuentra dentro de el archivo
@@ -73,7 +73,7 @@ especial "**short_open_tag = on**" (que se encuentra dentro de el archivo
 
 
 
-#####Nota:
+##### Nota:
 Siento no ser cien por ciento participativo con sus proyectos. La cantidad de tarea que
 tengo y este miniproyecto me han mantenido muy ocupado. Espero que, al menos este trabajo, sea
 una prueba de mi aparentemente invisible compromiso con el equipo. Son el mejor equipo de
